@@ -1,3 +1,7 @@
 # FCC-Telephone-Number-Validator
-## Objetive
-### User Requirements
+
+### Objetive 🎯
+
+### User Requirements 📜
+
+### Tools That Can Be Used 🛠
